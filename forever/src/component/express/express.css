@@ -1,0 +1,30 @@
+.brand-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    padding: 20px;
+  }
+  
+  .brand-section h3 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+  
+  .brand-section a {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .brand-section a:hover {
+    text-decoration: underline;
+  }
+  
+  .brand-section input {
+    padding: 5px;
+  }
+  
