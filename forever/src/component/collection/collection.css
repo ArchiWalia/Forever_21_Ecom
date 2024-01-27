@@ -1,3 +1,10 @@
 .trend{
     text-align: center;
+    
+    
+}
+.navv{
+    display: flex;
+    justify-content: space-evenly;
+
 }

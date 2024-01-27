@@ -1,0 +1,40 @@
+/* recommend.css */
+
+.recom {
+    position: relative;
+    width: 100%;
+    height: 500px;
+        /* max-width: 600px;  */
+    margin-top: 150px;
+    overflow: hidden;
+  }
+  
+  .recom img {
+    width: 100%;
+    height: 650px;
+    /* display: block; */
+  }
+  
+  button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #f45b5b;
+    border: none;
+    font-size: 18px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #1b1717;
+  }
+  
+  button:first-child {
+    left: 0;
+  }
+  
+  button:last-child {
+    right: 0;
+  }
+  

@@ -1,0 +1,21 @@
+.view1{
+    text-align: center;
+    margin-top: 20px;
+}
+.sat{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 39px;
+    gap: 18px;
+    margin-top: 19px;
+    width: 100%;
+}
+.sat div{
+    width: 22%;
+}
+.sat div img{
+    width: 100%;
+}
+.sat p{
+    text-align: left;
+}

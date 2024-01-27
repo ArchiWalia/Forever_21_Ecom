@@ -3,22 +3,26 @@ import Navbar from './component/navbar/Navbar'
 import Express from './component/express/Express'
 import Hero from './component/hero/Hero'
 import Collection from './component/collection/Collection'
-import Recommend from './component/recomended/Recommend'
-import Video from './component/video/Video'
 import Shopping from './component/shopping/Shopping'
+import Recent from './component/recent/Recent'
 import Footer from './component/footer/Footer'
+import Footer1 from './component/footer1/Footer1'
+
 
 function App() {
+
   return (
     <div>
+
       <Navbar />
       <Express />
       <Hero />
       <Collection />
-      <Recommend />
-      <Video/>
       <Shopping />
-      <Footer />
+      <Recent />
+      <Footer1 />
+      <Footer/>
+   
 
     </div>
   )

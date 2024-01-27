@@ -1,0 +1,30 @@
+.oops{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: medium;
+    margin-top: 10px;
+    padding: 19px;
+}
+
+.oops h3 {
+    font-size: medium;
+}
+.oops p{
+    margin-top: 15px;
+}
+.pink{
+    display: flex;
+    padding: 10px;
+    
+}
+.pink a{
+   border: 1px solid black; 
+   width: 50px;
+   height: 28px;
+   background-color: yellow;
+  
+   text-align: center;
+}
+.pink input{
+    width: 80%;
+}
